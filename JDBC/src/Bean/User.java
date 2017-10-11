@@ -21,6 +21,10 @@ public String getUserid() {
 }
 public void setUserid(String userid) {
 	this.userid = userid;
+	
+	
+	//md
+	
 }
 
 }
